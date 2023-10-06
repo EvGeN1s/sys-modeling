@@ -1,0 +1,1 @@
+docker build . --tag 2048-game < ./Dockerfile
